@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KauL1n
-- 👀 I’m interested in Coding, Gaming, and Movies 
 - 🌱 I’m currently learning C
 
 <!---
